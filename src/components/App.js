@@ -28,7 +28,7 @@ function App() {
         <Route path="Confirmed" element={<Confirmation />} />
         <Route
           path="*"
-          element={<h1 className="not-found">Page Not Found</h1>}
+          element={<h1 className="not-found">Page Not Founds</h1>}
         />
       </Routes>
 
